@@ -1,3 +1,7 @@
+A responsive menu with NextJs & tailwind & next/icon
+
+پروژه منو کاملا ریسپانسیو با NextJs & tailwind & next/icon
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
